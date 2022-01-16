@@ -10,3 +10,4 @@ Email : minemagazinebe@gmail.com </br>
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Minemagazine&theme=dracula)<br/>
 
 ---
+뭐ㅜ머뭐뭐뭐머뭐뭐뭐ㅜ머ㅝ뭐ㅜ머ㅜ머ㅝㅁ
