@@ -2,8 +2,8 @@
 
 # Majap
 
-Discord : 마잡#0001 </br>
-Email : minemagazinebe@gmail.com </br>
+Discord : 마잡#0001</br>
+Email : minemagazinebe@gmail.com</br>
 
 ![Majap's github Status](https://github-readme-stats.vercel.app/api?username=Minemagazine&show_icons=true&theme=dracula)
 ### Top Language
