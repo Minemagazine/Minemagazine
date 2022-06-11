@@ -1,6 +1,4 @@
-### Hi 👋
-
-# 헬로
+# Hi 👋
 
 Discord : 마잡#0001</br>
 Email : minemagazinebe@gmail.com</br>
