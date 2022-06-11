@@ -1,6 +1,6 @@
 ### Hi 👋
 
-# Majap
+# 헬로
 
 Discord : 마잡#0001</br>
 Email : minemagazinebe@gmail.com</br>
